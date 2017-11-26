@@ -17,3 +17,5 @@
 /build.sh
 /runit.sh
 /xbuildsheesh.sh
+*.o
+
