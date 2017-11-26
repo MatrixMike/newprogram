@@ -88,7 +88,7 @@ int main(int argc, char **argv)
 		firstrun("newprogram", "am.mak", "prdata.cfg",
 						"goptC", "goptH", "mainC", "manpage.md", NULL);
 		fprintf(stderr,
-					"Please edit prdata.cfg in %s.config/newprogram"
+					"Please edit  %s.config/newprogram/prdata.cfg"
 					" to meet your needs.\n",
 					getenv("HOME"));
 		exit(EXIT_SUCCESS);
